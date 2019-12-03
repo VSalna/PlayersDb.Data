@@ -1,0 +1,8 @@
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\bin\Debug\netcoreapp3.0\PlayersDb.Data.deps.json
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\bin\Debug\netcoreapp3.0\PlayersDb.Data.dll
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\obj\Debug\netcoreapp3.0\PlayersDb.Data.csprojAssemblyReference.cache
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\obj\Debug\netcoreapp3.0\PlayersDb.Data.AssemblyInfoInputs.cache
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\obj\Debug\netcoreapp3.0\PlayersDb.Data.AssemblyInfo.cs
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\bin\Debug\netcoreapp3.0\PlayersDb.Data.pdb
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\obj\Debug\netcoreapp3.0\PlayersDb.Data.dll
+C:\Users\viest\source\repos\rcs2309\PlayersDb.Data\PlayersDb.Data\obj\Debug\netcoreapp3.0\PlayersDb.Data.pdb
